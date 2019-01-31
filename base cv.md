@@ -1,8 +1,6 @@
 24 Westwood Road, Great Moor, Stockport, SK2 7AU
 frackham@googlemail.com	|  LinkedIn id: 25559765 / frackham
-	
-Twitter: frackham1
-07791 615 479	|  @frackham1
+07791 615 479	|  Twitter: @frackham1
 
 Education
 MSc Informatics [Computer Science] (Distinction) - Kingston University (2011-2013)
@@ -12,20 +10,19 @@ BA English Studies (2:1) – University of Nottingham (2001-2004)
 Employment
 Peninsula Business Services (09/2017 – 03/2019) Junior Developer (Finance / Full Stack - C#, Angular, SQL Server).
 •	Responsible for UI, API and DB updates to principle business tools (internal) for delivering insurance policies. 
-•	###Fleshed out admin project for managing cross-system settings.
+•	Developed cross-project administration hub in Angular ###Fleshed out admin project for managing cross-system settings.
 •	###$UI amendments on admin tool.
-
 
 Peninsula Business Services (09/2017 – 03/2019) Junior Developer (Salesforce / SQL).
 Placed with Salesforce team to lead on data migration project of an acquisition (SAP to Salesforce via SQL)
-•	###Designed(?) and actioned migration plan.
-•	Migration of ~7 million records from an undocumented SAP system to an in-use, shared Salesforce org with a significantly different object and domain model (e.g. multiple account-level objects transformed into single object).
+•	Developed a Salesforce logging application used across 3 companies Salesforce Orgs to monitor declarative (flow and process) and code based system failures (asynchronous and synchronous logging). 
+•	Actioned migration plan for ~7 million records from an undocumented SAP system to an in-use, shared Salesforce org with a significantly different object and domain model (e.g. multiple account-level objects transformed into single object).
 
 Peninsula Business Services (09/2017 – 03/2019) Graduate Developer.
 As my data analysis position became more senior, I became aware of the limitations of my role and wanted to explore other avenues for supporting educational systems on a larger scale. I changed career to software development and programming to develop skills that allow me to solve problems on a more significant scale.
 This initial role was a rotation between 5 software development teams; Business Systems, Quality Assurance, Business Analysis, SharePoint and Salesforce. 
 •	Worked with Business Systems on raising C# NUnit test coverage and e2e automation with protractor, karma and Jasmine (javascript test frameworks). 
-•	Worked with Salesforce to develop GDPR request processing using a custom recursive reflection library in Apex (Java derivative DSL). In addition, developed a Salesforce logging application used across 3 companies Salesforce Orgs to monitor declarative (flow and process) and code based system failures (asynchronous and synchronous logging). 
+•	Worked with Salesforce to develop GDPR request processing using a custom recursive reflection library in Apex (Java derivative DSL).
 •	Worked with business analysts to create dynamic reporting of Agile processes across all teams (e.g. burndown, bug tracking and work-in-progress tracking).
 •	Worked with Salesforce 
 •	**UI amendments on admin tool.TFS reporting / API work.
@@ -60,6 +57,9 @@ CIW (Certified Internet Webmaster) and ECDL (European Computer Driving Licence)
 Microsoft Certified Educator
 
 Skills
+Text Analysis
+***XXXXXXX***
+
 Communication
 My previous secondary data and leadership positions required me to employ a range of speaking, presentation and training skills at both small meeting and a whole staff INSET level; including presentation and demonstration to school leadership, governors, teaching staff and lead OFSTED inspectors (in both of the full inspections I have been involved in). 
 I have performed outreach work, including supporting the data manager at a nearby ‘Requires Improvement’ school with a high proportion of disadvantaged students. This included presenting to the governing body of that school on how they could track student progress using transition matrices, and on the role of the data manager.
