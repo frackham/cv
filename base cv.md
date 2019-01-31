@@ -21,11 +21,10 @@ Placed with Salesforce team to lead on data migration project of an acquisition 
 Peninsula Business Services (09/2017 – 03/2018) Graduate Developer.
 As my school based data analysis position became more senior, I became aware of the limitations of my role and wanted to explore other avenues for supporting educational systems on a larger scale. I changed career to software development and programming to develop skills that allow me to solve problems on a more significant scale.
 This initial role was a rotation between 5 software development teams; Business Systems, Quality Assurance, Business Analysis, SharePoint and Salesforce. 
-•	Worked with Business Systems on raising C# NUnit test coverage and e2e automation with protractor, karma and Jasmine (javascript test frameworks). 
+•	Worked with Business Systems on raising C# NUnit test coverage and e2e automation with Protractor, Karma and Jasmine (Javascript test frameworks). Use of Selenium for C# UI tests.
 •	Worked with Salesforce to develop GDPR request processing using a custom recursive reflection library in Apex (Java derivative DSL).
-•	Worked with business analysts to create dynamic reporting of Agile processes across all teams (e.g. burndown, bug tracking and work-in-progress tracking).
-•	Worked with Salesforce 
-•	**UI amendments on admin tool.TFS reporting / API work.
+•	Worked with business analysts to create dynamic reporting of Agile processes across all teams (e.g. burndown, bug tracking and work-in-progress tracking), as well as using TFS / VSTS to report and track work items on a day-to-day basis as part of an Agile workflow..
+•	Adapted existing unit testing in NUnit to report on code coverage across paths, with cyclomatic complexity, using OpenCover and batch processing as part of build processes.
 
 inventive, enthusiastic, new tech, DEvops, agile, customer focus, cloud AI (3rd party - wardley mapping) not just making it yourself. requirements (QA/BA). modern - high quality (unit testing, e2e), c#, sql, API/webapi. Text analysis : corpus analysis, generative texts, descriptive grammars, NLP. c#/vs, vs code, angular, TDD/BDD.  Node. github/git. CI-Jenkins. plantuml. javascript, typescript, java/apex, python google app engine, node, relational - salesforce object mapping. 
  
@@ -58,7 +57,7 @@ Microsoft Certified Educator
 
 Skills
 Text Analysis
-***XXXXXXX***
+During my first Masters, I focused on Corpus Analysis (large-scale text analysis using computer systems and descriptive grammars). My dissertation reviewed the state of the art in text analysis software (word-level analysis) at the time using CANCODE (Cambridge and Nottingham Corpus of Discourse in English) and a self-collected dataset of informal discourse.
 
 Communication
 My previous secondary data and leadership positions required me to employ a range of speaking, presentation and training skills at both small meeting and a whole staff INSET level; including presentation and demonstration to school leadership, governors, teaching staff and lead OFSTED inspectors (in both of the full inspections I have been involved in). 
