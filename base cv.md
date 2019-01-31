@@ -8,18 +8,18 @@ MA Applied Linguistics (Attained) - University of Nottingham (2004-2005)
 BA English Studies (2:1) – University of Nottingham (2001-2004)
 
 Employment
-Peninsula Business Services (09/2017 – 03/2019) Junior Developer (Finance / Full Stack - C#, Angular, SQL Server).
-•	Responsible for UI, API and DB updates to principle business tools (internal) for delivering insurance policies. 
-•	Developed cross-project administration hub in Angular ###Fleshed out admin project for managing cross-system settings.
-•	###$UI amendments on admin tool.
+Peninsula Business Services (10/2018 – current) Junior Developer (Finance / Full Stack - C#, Angular, SQL Server).
+•	Responsible for UI (Angular / Typescript in Visual Studio Code), API (C#) and DB (SQL) updates to principle business tools for delivering insurance policies across all companies within the group.
+•	Implementation, development and UI amendments on cross-project administration hub in Angular for managing cross-system settings for Finance systems.
 
-Peninsula Business Services (09/2017 – 03/2019) Junior Developer (Salesforce / SQL).
+Peninsula Business Services (03/2018 – 10/2018) Junior Developer (Salesforce / SQL).
 Placed with Salesforce team to lead on data migration project of an acquisition (SAP to Salesforce via SQL)
 •	Developed a Salesforce logging application used across 3 companies Salesforce Orgs to monitor declarative (flow and process) and code based system failures (asynchronous and synchronous logging). 
-•	Actioned migration plan for ~7 million records from an undocumented SAP system to an in-use, shared Salesforce org with a significantly different object and domain model (e.g. multiple account-level objects transformed into single object).
+•	Actioned migration plan for ~7 million records from an undocumented SAP system to an in-use, shared Salesforce org with a significantly different object and domain model (e.g. multiple account-level objects transformed into single object). 
+•	Used SSIS, DBAmp and SSMS to import large datasets to SQL Server relational databases in preparation for import into object-relational Salesforce data structures. 
 
-Peninsula Business Services (09/2017 – 03/2019) Graduate Developer.
-As my data analysis position became more senior, I became aware of the limitations of my role and wanted to explore other avenues for supporting educational systems on a larger scale. I changed career to software development and programming to develop skills that allow me to solve problems on a more significant scale.
+Peninsula Business Services (09/2017 – 03/2018) Graduate Developer.
+As my school based data analysis position became more senior, I became aware of the limitations of my role and wanted to explore other avenues for supporting educational systems on a larger scale. I changed career to software development and programming to develop skills that allow me to solve problems on a more significant scale.
 This initial role was a rotation between 5 software development teams; Business Systems, Quality Assurance, Business Analysis, SharePoint and Salesforce. 
 •	Worked with Business Systems on raising C# NUnit test coverage and e2e automation with protractor, karma and Jasmine (javascript test frameworks). 
 •	Worked with Salesforce to develop GDPR request processing using a custom recursive reflection library in Apex (Java derivative DSL).
@@ -65,7 +65,7 @@ My previous secondary data and leadership positions required me to employ a rang
 I have performed outreach work, including supporting the data manager at a nearby ‘Requires Improvement’ school with a high proportion of disadvantaged students. This included presenting to the governing body of that school on how they could track student progress using transition matrices, and on the role of the data manager.
 I have prepared written executive reports, including the collation of data and reports for OFSTED inspectors, governors and teachers. I have also undertaken copy-editing for a series of published fiction books and helped publish as eBooks.
 I have presented to moderate (50+) audiences on technical/assessment content
-
+*************Presentations better than data and computer geeks***********************Data collections c#
 Data Management & Analysis
 Implementation of whole-school student progress tracking. My previous school’s usage of data was described by OFSTED as ‘reliable’, and inspectors noted that ‘improvement strategies emanate from accurate self-evaluation and systematic monitoring of progress’; systems that I designed and implemented in our MIS. I have also presented at the Capita SIMS national partnership conference on the use of data and systems to support the restructuring of non-teaching staff provision.
 Measurement of school and national policies, such as the impact of new KS4 accountability measures, on whole school areas ranging from timetabling and curriculum implications to in-year internal assessment.
