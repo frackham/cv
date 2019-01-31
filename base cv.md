@@ -1,6 +1,7 @@
 24 Westwood Road, Great Moor, Stockport, SK2 7AU
 	frackham@googlemail.com	|  LinkedIn id: 25559765 / frackham
-	Twitter: frackham1 (??)
+	
+Twitter: frackham1 (??)
 	07791 615 479	|  @frackham_edu XX REM
 
 Education
@@ -10,21 +11,25 @@ BA English Studies (2:1) – University of Nottingham (2001-2004)
 
 Employment
 Peninsula Business Services (09/2017 – 03/2019) Junior Developer (Finance / Full Stack - C#, Angular, SQL Server).
-•	UI amendments on admin tool.
-•	UI amendments on admin tool.
-•	UI amendments on admin tool.
+•	Responsible for UI, API and DB updates to principle business tools (internal) for delivering insurance policies. 
+•	###Fleshed out admin project fot managing cross-system settings.
+•	###$UI amendments on admin tool.
 
 
 Peninsula Business Services (09/2017 – 03/2019) Junior Developer (Salesforce / SQL).
-Placed with Salesforce team to lead on data migration project of an acquisition
-•	Designed(?) and actioned migration plan.
-•	UI amendments on admin tool.
+Placed with Salesforce team to lead on data migration project of an acquisition (SAP to Salesforce via SQL)
+•	###Designed(?) and actioned migration plan.
+•	Migration of ~7 million records from an undocumented SAP system to an in-use, shared Salesforce org with a significantly different object and domain model (e.g. multiple account-level objects transformed into single object).
 
  
 Peninsula Business Services (09/2017 – 03/2019) Graduate Developer.
-*Career change.* Rotation around 5 software development teams; Business Systems, Quality Assurance, Business Analysis, SharePoint and Salesforce. 
-•	c# test coverage and e2e automation with protractor. GDPR and logging tools. TFS reporting / API work.
+##$*Career change.* Rotation around 5 software development teams; Business Systems, Quality Assurance, Business Analysis, SharePoint and Salesforce. 
+
+•	##c# test coverage and e2e automation with protractor. GDPR and logging tools. TFS reporting / API work.
 •	UI amendments on admin tool.
+•	UI amendments
+•	###Offers to work with any team at the end of the programme.
+
  
 The Barlow RC High School (09/2016 – 09/2017) Data and Assessment Manager
 Manage school data systems for staff and student data. Support wider staff body with data literacy and training. 
