@@ -1,0 +1,93 @@
+Stockport, England 
+frackham@googlemail.com | stackoverflow.com/users/1472605 
+.   07791 615 479 | LinkedIn id: 25559765   .
+Education
+MSc Informatics [Computer Science] (Distinction) - Kingston University (2011-2013)
+MA Applied Linguistics (Attained) - University of Nottingham (2004-2005)
+BA English Studies (2:1) – University of Nottingham (2001-2004)
+
+Employment 
+Speakers for Schools (05/2023 – current) Head of Engineering 
+Responsibility for product delivery, developer/QA/data outcomes and process transformation
+•	Extension of Development Manager role, adding QA to portfolio of responsibilities.
+•	Leading on delivery strategy including priorities, recruitment & resourcing and alignment to charity transformation work.
+•	Providing coaching on process transformation, professional development and technical guidance (e.g. support SLAs, Azure Data Factory and SQL change controls).
+•	
+
+Speakers for Schools (03/2022– 04/2023) Development Manager (Angular, .NET, SQL, Azure, Azure Devops)
+Responsibility for product delivery, developer outcomes and process transformation.
+•	Capacity planning for quarterly delivery. CONTRACTORS
+•	Line management of developers with attention to professional development, targeted feedback and knowledge sharing, with our team having the highest retention rates in the charity. Managed appointment and interview of team members across all roles.
+•	Managed end-of-life of mobile application and handoff from our external contractors to internal team ownership of products.
+•	Internal and external stakeholder collaboration with programme and product specialists, key technology vendors, consultants, and other external stakeholders (Azure CSP, recruiters).
+•	Provide strategic tooling such as skills gap analysis using a skills matrix, analysis of DORA metrics and departmental KPIs and running blameless postmortems (both inside and outside of the department), leading to a renewed focus on XX.
+
+Speakers for Schools (06/2021 – 02/2022) Team Lead (Youth Card Mobile App) (Xamarin, .NET Core, Azure)
+Responsibility for the recovery, launch and rollout of a cross-platform mobile app serving discounts and opportunities to young people in state education.
+•	Ran a contractor-heavy team to bring outsourced at-risk project in house, including using code reviews to manage quality and running agile ceremonies.
+•	Implemented release management and change control practices, managed technical debt and rearchitected approach to existing mobile application to increase delivery speed and quality.
+
+Speakers for Schools (11/2020 – 05/2021) Software Engineer (Angular, .NET, SQL, Azure, Azure Devops)
+Full stack developer, establishing software development practices at a charity that historically only outsourced.
+•	Full stack development of legacy application (DotNetNuke) and greenfield replacement microservices-based portal (Angular / Azure / C# .NET / SQL backend / Azure Devops).
+•	Full recovery of legacy infrastructure after a significant outage in first month of employment.
+•	Advocate for security approaches and threat modelling for greenfield portal project.
+
+Chess ICT (03/2020 – 10/2020) Software Developer (Azure Devops, C#, React, SQL Server).
+Initially part of a team maintaining internal legacy systems, moved to team developing new customer-facing portal.
+•	Full stack development of multiple related portals (React / Azure APIM / ASP.NET / C# and VB.NET / SQL backend / SharePoint API integration with SQL agent jobs and Powershell scripts).
+•	Cross-team technical debt/architectural support ranging from investigating Azure Devops pipelines issues to presenting during knowledge share sessions on API testing via Postman and Azure Services.
+•	Billable client work for a Teams chatbot responding via natural language, using Azure / Azure Cognitive Services, using existing FAQ information to respond to user questions.
+ 
+BeyondTrust (07/2019 – 03/2020) Software Engineer (Azure Devops, Powershell, C#, Angular, SQL Server).
+Part of a team responsible for migration of an existing PaaS PAM solution to SaaS.
+•	Full stack development of privileged access management solution (Angular / C# Service Fabric / SQL backend) using Agile and TDD practices.
+•	Development of SaaS iteration of solution using Azure, ARM templates, Azure Devops build / release / YAML pipelines and bespoke devops scripting tasks.
+•	Proof of concept work of an Azure administrative portal for operations using Angular 8, Azure Static hosting (storage), Azure Functions and triggering of deployments using the Azure Devops REST API.
+
+Peninsula Business Services (10/2018 – 07/2019) Junior Full Stack Developer (C#, Angular, SQL Server).
+Responsible for UI (Angular / Typescript in Visual Studio Code), Code/API (C#) and DB (SQL) updates to principle business tools for delivering finance systems (mainly insurance policies) across all companies within the group.
+•	Full stack development of administration hub for managing cross-system settings for Finance systems (Angular / C# WebAPI / Entity Framework / SQL backend) using Agile and TDD practices (NUnit).
+•	Resolved Angular routing issues, environment configuration, updated internal and external Node packages, created data services and new components. Regularly worked in both Typescript and vanilla JS.
+•	CI and deployment of finance systems (Jenkins, Git, VSTS, Powershell, Windows Batch).
+•	Analysis and implementation of bugfixes across estate, including IE11 caching heisenbug issues across the API and front end for a product near release.
+•	Use of Node, Powershell and Windows Batch to automate deployment and testing processes.
+
+Peninsula Business Services (03/2018 – 10/2018) Junior Developer (Salesforce / SQL).
+Placed with Salesforce team to lead on data migration project of an acquisition (SAP to Salesforce via SQL)
+•	Developed a Salesforce logging application used across 3 companies’ Salesforce orgs to monitor declarative (flow and process) and code-based system failures (asynchronous and synchronous logging). 
+•	Led a data migration for ~7 million records from an undocumented SAP system to an in-use, shared Salesforce org via SQL Server/SSIS, with a significantly different object and domain model (e.g. multiple account-level objects transformed into single object).
+
+Peninsula Business Services (09/2017 – 03/2018) Graduate Developer
+As my school-based data analysis roles became more senior, I wanted to explore wider avenues for supporting educational outcomes. I changed career to software development to solve problems on a more significant scale.
+This role rotated between 5 software development teams; Business Systems, Quality Assurance, Business Analysis, SharePoint and Salesforce. 
+•	Worked with Business Systems on raising C# NUnit test coverage and e2e automation with Protractor, Karma and Jasmine (Javascript test frameworks). Use of Selenium for C# UI tests.
+•	Developed a Salesforce GDPR request processing service using a self-developed, recursive reflection library in Apex to handle varying object specifications within cloud processing limits.
+•	Worked with business analysts to create dynamic reporting of Agile processes across all teams (e.g. burndown, bug tracking and work-in-progress tracking), as well as using TFS / VSTS to report and track work items on a day-to-day basis as part of an Agile workflow.
+•	Adapted existing unit testing in NUnit to report on code coverage across paths, with cyclomatic complexity, using OpenCover and batch processing as part of build processes.
+
+The Barlow RC High School (09/2016 – 09/2017) Data and Assessment Manager
+Manage school data systems for staff and student data. Support wider staff body with data literacy and training. 
+•	Replaced critical assessment data analysis systems on MIS within first half term to account for lack of existing systems. This allowed all staff to see the achievement of each student, at all times.
+
+ 
+Parliament Hill School (01/2014 – 08/2016) School Performance Data Manager (and concurrent uplifted senior leadership role as Lead School Business Manager from 06/2014)
+Managed MIS for staff and student data. Support wider staff body with data literacy, office skills and training. Legal responsibility for DPA/FOI compliance. Member of senior leadership team reporting to the Headteacher, with line management of Finance Manager, HR Manager, Admin & Governance Manager, Cover Manager and Data Assistant. 
+•	Responsibility for MIS data management, including designing reports such as compliance returns (determining school funding) and responsibility for tracking of student data using MIS and bespoke solutions.
+•	Worked on strategic planning, including introducing a risk management heatmap and successful external audits of Finance, HR and Data, as well as an analysis of non-teaching staff roles prior to a restructure and the use of automated reporting tools to reduce workload at all levels of the organisation.
+•	Outreach acting as a trainer for a local ‘requires improvement’ school, developing their data management practices, and presented to moderate (50+) audiences on schools’ data. I have also presented at the Capita SIMS national partnership conference on using data during a restructure of non-teaching staff.
+
+Grey Court School (10/2012 – 01/2014) Director of Data Analysis
+Member of senior management team. Management of Data Officer (parental reporting & assessment).  Timetabling, assessment analysis, and ad-hoc analysis as determined by the head teacher.
+•	Appointment to the senior management team with wider leadership responsibilities.
+•	Development of an internal dashboard for the leadership group, pushing for data-driven decisions.
+
+Grey Court School (01/2010 – 10/2012) Academic Data and Web Master
+Management of school academic database (assessment, reporting and data transformation). Support wider staff body with office skills and training. Periodic invitee to SLT meetings to report on student progress metrics. 
+•	Advised the Local Authority data team regarding admissions data, troubleshooting and streamlining their admission data format to make the data more easily imported into local schools. 
+
+My LinkedIn profile, with a more extensive list of technologies that 
+I have experience with, can be at  http://uk.linkedin.com/in/frackham
+(also accessible by the QR code adjacent)	 
+ 
+
