@@ -3,12 +3,13 @@
 - [ ] **Update generic CV
   - [ ] results and outcomes
     - [ ] **See KPI sheet!!! 
-      - [ ] Uptime at 99.X%!!! --> dev manager
+      - [ ]** Uptime at 99.X%!!! --> dev manager
     - [ ] see ideas below
       - [ ] Infrastructure costs --> maintained cost per month for 2 years while reducing cost per user each month.
     - [ ] add good ones to LI profile too
     - [ ] planning moving to an event-driven architecture
     - [ ] microservices
+    - [ ] REACT from Forge, Codegeist 2024.
 - [ ] share CV
   - [ ] AnneMarie
   - [ ] other recruiter
@@ -19,7 +20,6 @@
       - [ ] LIST HERE
   - [ ] all hat-in-rings as-is
 
-- [x] Oleh recommendation.
 
 -------------------
 
