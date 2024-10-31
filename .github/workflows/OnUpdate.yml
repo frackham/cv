@@ -1,0 +1,44 @@
+# This is a basic workflow to help you get started with Actions
+
+name: OnUpdate
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "master" branch
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "when-updated"
+  when-updated:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+
+      # Runs a single command using the runners shell
+      - name: todo-echo
+        run: echo TODO 1. get most recent CV, copy to permalink directory. 
+
+      # Get file and copy to update
+      - name: Run a multi-line script
+        run: |
+          echo 1. LS at Root
+          ls
+          echo ...
+          echo 2. CD into Cvs
+          echo 3. Overwrite existing permalink.
+          
+      - name: Commit back to this repo
+        run: |
+          echo 1. Commit back, but MUST NOT TRIGGER THIS ACTION AGAIN!!!
+          exit 1
