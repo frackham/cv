@@ -1,0 +1,288 @@
+ 
+FRASER RACKHAM 
+Director of Technology 
+📞  07791 615 479        📧 frackham@googlemail.com       📍 Stockport, England 
+  ℹ  hƩps://www.linkedin.com/in/frackham/ 
+ 
+EXPERIENCE 
+Director of Technology 
+Speakers for Schools     08/2025 - Present    
+• Responsible for all technology delivery across the charity, managing a £1M+ budget 
+and leading engineering, QA, UX, product, data, and IT operaƟons. 
+• Lead technology strategy serving 35,000 young people annually, aligning technical 
+roadmap with the charity's 5-year strategic plan and maintaining 99.9% plaƞorm 
+upƟme. 
+• Accountable for data protecƟon, GDPR compliance, and safeguarding requirements. 
+Member of Senior Leadership Team contribuƟng to organizaƟonal strategy, business 
+planning, and funding decisions. 
+• Prototyping white-labelling soluƟon for local authority partnerships to expand 
+employer reach and service impact. 
+ 
+Head of Engineering 
+Speakers for Schools     05/2023 – 08/2025    
+• Led engineering teams through contractor reducƟon saving £600k+ while sustaining 
+morale, retenƟon, and delivery quality.  
+• Achieved high-performing operaƟon aligned with DORA research: reduced release 
+frequency from 2 months to 2 weeks while maintaining 99.95% upƟme and low 
+change failure rates, improving cost-per-user and NPS scores. 
+• Member of Programme Board, providing costed technical proposals and architectural 
+opƟons for funder investments. 
+• Led architectural strategy implemenƟng event-driven architecture, deprecaƟng legacy 
+services, and removing all VMs in favor of SaaS alternaƟves—eliminaƟng signiﬁcant 
+security threat vectors. 
+• Sustained quality outcomes as QA team reduced from 4 to 1, tracked via external pen 
+tests, internal bugs, and Azure Defender scores. 
+ 
+Development Manager 
+Speakers for Schools     03/2022 - 04/2023    
+• Line management of developers, QA and data specialists (and technical leads of areas) 
+with aƩenƟon to professional development, targeted feedback and knowledge 
+sharing. Our team had the highest retenƟon rates in the charity over a 3-year period 
+while sƟll delivering successfully on our business plan each year. 
+• Remained an individual contributor and code reviewer, delivering features such as 
+landing page dashboards and a C# geographical data API, creaƟng an internal young 
+person need score model using ADF and SQL scripts, and integraƟng with HR systems 
+APIs across FE, BE, and Data spaces in the technology team estate. In addiƟon, was 
+principal developer for most of our conƟnuous integraƟon and delivery pipelines 
+(CI/CD) which contribute to our minimal downƟme for users during deployments. 
+• Collaborated regularly with internal and external stakeholders—including programme 
+and product specialists, key technology vendors, consultants, and others (e.g., Azure 
+CSP , recruiters)—to present security outcomes to the leadership group and gain buy-in 
+for extending pen-test coverage to systems not owned by our team. 
+• Advocated for and managed end-of-life of a mobile applicaƟon and handoﬀ from our 
+external contractors to internal team ownership of the product, saving the charity on 
+the cost of maintenance. 
+• Provide strategic tooling such as skills gap analysis using a skills matrix, analysis of 
+DORA metrics and departmental KPIs and the facilitaƟon of blameless postmortems 
+(both inside and outside of the department), leading to a focus on areas with single 
+points of failure and targeted capacity planning for quarterly delivery. 
+• Implemented integraƟon with the Groupcall Xporter API, including an onboarding 
+experience for headteacher signoﬀ, for an MIS trial integraƟon. Planned, led, and 
+monitored a successful trial with several schools, on the back of sustained engagement 
+with the vendor. 
+• Guided the team through disrupƟons to morale and psychological safety, parƟcularly 
+while working with contractors based in Ukraine during the early days of the war. 
+Professional Proﬁle 
+I’m a proacƟve soŌware engineering leader and product 
+delivery specialist, with a strong passion for enhancing 
+team dynamics, fostering professional growth, and 
+opƟmising development processes.  
+At the core of my approach is DevOps-driven automaƟon 
+and collaboraƟon, enabling streamlined deployments, 
+conƟnuous feedback, and faster, safer soŌware delivery. 
+I became a soŌware developer aŌer a previous career as a 
+secondary school Data Manager and Senior Leader for 
+non-teaching staﬀ. Solving everyday ineﬃciencies for Ɵme-
+poor teachers with simple automaƟons inspired me to 
+pursue soŌware engineering full-Ɵme. 
+Since then, I’ve led eﬀorts to scale delivery, harden system 
+reliability, and reduce operaƟonal overhead across 
+engineering teams through smart operaƟonal leadership. I 
+love turning ‘there has to be a beƩer way’ into a 
+beauƟfully automated soluƟon and replacing fricƟon with 
+ﬂow wherever I can. 
+This CV only provides a summary of the technologies I’ve 
+used and of my background in schools and educaƟon —
+please get in touch if you'd like a fuller view of these areas. 
+ 
+Competencies 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+KEY ACHIEVEMENTS 
+Cost-saving IniƟaƟves 
+Saved over £600k by matching team size to our 
+charity needs. 
+ 
+Improved Release Cycle  
+Reduced release frequency from 2 months to 2 
+weeks without increasing the change failure rate. 
+ 
+Enhanced System Stability 
+Achieved 99.95% upƟme, reducing cost per-user 
+and boosƟng NPS year-on-year. 
+ 
+Flexible Team Player  
+As both a full stack developer and leader, I 
+regularly pick up the most challenging or uncertain 
+elements of delivery and direcƟon, keeping our 
+team on track and well-respected for keeping our 
+commitments. 
+Technical DirecƟon 
+Team Management 
+DevOps & CI/CD 
+NET stack (C#) 
+AutomaƟon 
+AI  
+FE Development 
+Agile Methodologies 
+ 
+
+ 
+ 
+EXPERIENCE 
+Team Lead (Youth Card Mobile App) 
+Speakers for Schools     06/2021 - 02/2022    
+• Ran a contractor-heavy team to recover and launch a cross-plaƞorm mobile app 
+serving discounts and opportuniƟes to young people in state educaƟon, delivering on a 
+challenging 6-month Ɵmeline from a non-funcƟonal, insecure and incomplete app. 
+• Implemented release management and change control pracƟces, managed technical 
+debt and rearchitected the approach to the exisƟng mobile applicaƟon to increase 
+delivery speed and quality, allowing a new team to get to grips with this applicaƟon. 
+• Surfaced technical debt via ‘quality views’ (data-driven component views of technical 
+debt and quality challenges), making the internal case for resolving quality issues in 
+outdated APIs and the Xamarin mobile applicaƟon, rather than solely focusing on 
+feature delivery—ulƟmately reducing quality issues over Ɵme. 
+• Drove GDPR-compliant design decisions, regular pen tesƟng, and cloud security 
+posture improvements across all environments. 
+ 
+SoŌware Engineer 
+Speakers for Schools     11/2020 - 05/2021    
+• Full stack development of legacy applicaƟon and replacement with a microservices-
+based portal. 
+• Led the full recovery of legacy infrastructure aŌer a signiﬁcant outage in my ﬁrst 
+month, demonstraƟng strong problem-solving abiliƟes and resilience under pressure. 
+• Played a key role in producing the business case for a complete rebuild of the core 
+work experience portal, which remains in long-term use. 
+ 
+SoŌware Developer 
+Chess ICT       03/2020 - 10/2020   
+• Full stack development of mulƟple related legacy and greenﬁeld portals (cloud and on-
+prem), using a mix of challenging, hard-to-change classic ASP applicaƟons and more 
+modern, maintainable ASP soluƟons. 
+• Billed client work for a Teams chatbot that responded via natural language using Azure 
+/ Azure CogniƟve Services, leveraging exisƟng FAQ content to answer user quesƟons. 
+ 
+SoŌware Engineer 
+BeyondTrust      07/2019 - 03/2020   
+• Full stack development of exisƟng privileged access management soluƟon using Agile 
+and TDD pracƟces, leading to a global, mulƟ-tenant SaaS iteraƟon of the exisƟng 
+product using Azure, ARM templates, Azure DevOps and bespoke scripƟng tasks. 
+• PoC work on an Azure developer portal, triggering deployments using the Azure 
+DevOps REST API to allow orchestraƟon of individual customer instances of releases.  
+• Full stack development of administraƟon hub for managing cross-system seƫ ngs for 
+Finance systems using C# APIs, EnƟty Framework and a SQL backend. 
+• Responsible for UI (Angular / TypeScript in Visual Studio Code), API/Code (C#), and 
+database (SQL ﬁnance systems—mainly insurance policies) across all companies within 
+the group. 
+ 
+Junior Full Stack Developer 
+Peninsula Business Services     10/2018 - 07/2019   
+Junior Developer 
+Peninsula Business Services     03/2018 - 10/2018   
+Graduate Developer 
+Peninsula Business Services     09/2017 - 03/2018  
+• Placed with Salesforce team to lead on a data migraƟon project for an acquisiƟon, a 
+migraƟon of 7 million customer records from an undocumented, fragmented SAP 
+system to an exisƟng live Salesforce org via SQL Server/SSIS, meeƟng the challenging 
+acquisiƟon compliance deadline. 
+• Developed a Salesforce logging applicaƟon used across 3 companies' Salesforce orgs to 
+monitor declaraƟve (ﬂow and process) and code system failures (asynchronous and 
+synchronous logging), as well as a Salesforce GDPR request handler using a self-
+developed reﬂecƟon library in Apex to handle dynamic datasets within restricƟve 
+Salesforce API limits.  
+• Raised C# NUnit test coverage from below 10% to above 90% supporƟng a team wide 
+push on refactoring legacy components and allowing modernisaƟon and removal of 
+outdated services. 
+ 
+ 
+TIME AND FOCUS 
+ 
+ 
+SKILLS AND TECH 
+Agile, Angular, Azure (ARM Templates, Azure AcƟve 
+Directory/Entra, Azure Data Factory, Azure 
+FuncƟons, Azure SQL, Azure Web ApplicaƟons), 
+Azure Devops, C#, CLI, Cypress, E2E tesƟng, EnƟty 
+Framework, GitHub, Github AcƟons, Github 
+Copilot, Jasmine, Jenkins, JIRA family (JIRA, 
+Conﬂuence, Compass, JIRA App development), 
+Karma, npm, NUnit, Playwright, Postman, 
+PowerShell, Protractor, React, REST, Salesforce 
+(Development, Flows, Processes), SAP , Selenium, 
+SonarQube/SonarCloud, SOQL, SQL, staƟc analysis, 
+SSIS, TypeScript, Visual Studio, Visual Studio Code, 
+WebDriver, WordPress, YAML 
+ 
+EDUCATION 
+MSc InformaƟcs (Computer Science) 
+Kingston University    2011 - 2013  
+DisƟncƟon  
+MA Applied LinguisƟcs 
+University of Noƫ ngham   2004 - 2005  
+ 
+BA English Studies 
+University of Noƫ ngham   2001 - 2004 
+2:1 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+EXPERIENCE 
+Data and Assessment Manager 
+The Barlow RC High School      09/2016 - 09/2017  
+• Completely replaced criƟcal assessment data analysis systems on MIS within ﬁrst half 
+term to account for lack of exisƟng systems. This allowed all teaching staﬀ to see the 
+achievement of each student, at all Ɵmes. 
+ 
+Lead School Business Manager 
+Parliament Hill School      06/2014 - 08/2016  
+School Performance Data Manager (Concurrent) 
+Parliament Hill School      01/2014 - 08/2016  
+• During this Ɵme, I was a staﬀ governor (liaising with support staﬀ as their 
+representaƟve on the governing body), as well as delivering my own training to 
+governors on RAISEonline, the use of data and data-driven governance, receiving 
+feedback that it was ‘the best training on data I’ve been to’. I also worked alongside 
+the chair on a trial evidencing the NGA’s 20 self-evaluaƟon quesƟons. 
+• Managed MIS for staﬀ and student data and supported wider staﬀ body with data 
+literacy, oﬃce skills and training. Legal responsibility for DPA/FOI compliance. Member 
+of senior leadership team reporƟng to the Headteacher, and line management of 
+Finance, HR, Premises, Admin, Cover and Data funcƟons.  
+• Responsibility for data management and systems such as Alps, 4Matrix, RAISEonline 
+and SIMS Assessment (MIS), including designing reports such as compliance returns 
+(determining school funding) and responsibility for tracking of KS3-5 student data. 
+• Collaborated with data managers across the LaSwap 6th form consorƟum, including 
+supporƟng on complex cross-school reporƟng on results day, ensuring that results 
+were delivered accurately and on-Ɵme across all 4 schools in the same 24hr Ɵmeframe 
+that single schools had. 
+• Set up and led the Camden Data Manager’s forum, sharing updates and technical 
+brieﬁngs, as well as supporƟng other schools with quesƟons on census returns. 
+• Developed bespoke soluƟons for generaƟng end of year academic reports and data 
+dashboards per subject area (using self-taught VBA in Excel and Word), reducing Ɵme 
+taken for staﬀ analysis from ~2 days to 4 hours per head of department, each year, and 
+ensuring that key groups (such as FSM, G&T, SEND and literacy intervenƟon groups), 
+innovaƟng over and above the iniƟal one-oﬀ request. 
+• Worked on strategic planning, including introducing a risk management heatmap and 
+successful external audits of Finance, HR and Data, as well as an analysis of non-
+teaching staﬀ roles prior to a restructure and the use of automated reporƟng tools to 
+reduce workload at all levels of the organisaƟon. 
+• Outreach acƟng as a trainer for a local ‘requires improvement’ school, developing their 
+data management pracƟces, and presented to moderate (50+) audiences on schools’ 
+data. I have also presented at the Capita SIMS naƟonal partnership conference on 
+using data during a restructure of non-teaching staﬀ. 
+ 
+ 
+Director of Data Analysis 
+Grey Court School 
+ 10/2012 - 01/2014   
+• Worked with teachers to understand their data, impact and eﬃciencies oﬀered by our 
+systems for their work and impact on young people across internal and external 
+systems. 
+• Appointment to the senior management team with wider leadership responsibiliƟes, 
+including creaƟng and tracking a project implementaƟon plan for the introducƟon of a 
+6th form and owning the risk register heatmap. 
+• Development of a dashboard for the leadership group, pushing for data-driven 
+decisions using a scorecard approach and using research from TuŌe and Few on data 
+visualizaƟon, data-ink and the eﬀecƟve representaƟon of informaƟon. 
+• Measurement of school and naƟonal policies, such as the impact of new KS4 
+accountability measures, on whole school areas ranging from Ɵmetabling and 
+curriculum implicaƟons to in-year internal assessment. 
+ 
